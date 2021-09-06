@@ -192,7 +192,7 @@ dev = ["coverage", "black", "hypothesis", "hypothesmith"]
 
 [[package]]
 name = "flake8-comprehensions"
-version = "3.4.0"
+version = "3.6.1"
 description = "A flake8 plugin to help you write better list/set/dict comprehensions."
 category = "dev"
 optional = false
@@ -896,8 +896,8 @@ flake8-bugbear = [
     {file = "flake8_bugbear-21.4.3-py36.py37.py38-none-any.whl", hash = "sha256:4f305dca96be62bf732a218fe6f1825472a621d3452c5b994d8f89dae21dbafa"},
 ]
 flake8-comprehensions = [
-    {file = "flake8-comprehensions-3.4.0.tar.gz", hash = "sha256:c00039be9f3959a26a98da3024f0fe809859bf1753ccb90e228cc40f3ac31ca7"},
-    {file = "flake8_comprehensions-3.4.0-py3-none-any.whl", hash = "sha256:7258a28e229fb9a8d16370b9c47a7d66396ba0201abb06c9d11df41b18ed64c4"},
+    {file = "flake8-comprehensions-3.6.1.tar.gz", hash = "sha256:4888de89248b7f7535159189ff693c77f8354f6d37a02619fa28c9921a913aa0"},
+    {file = "flake8_comprehensions-3.6.1-py3-none-any.whl", hash = "sha256:e9a010b99aa90c05790d45281ad9953df44a4a08a1a8f6cd41f98b4fc6a268a0"},
 ]
 flake8-simplify = [
     {file = "flake8_simplify-0.14.0-py3-none-any.whl", hash = "sha256:5793b3c7bd826d7489580f8146bbd40d5bface15d9be5020ddbf07980b844709"},
